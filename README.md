@@ -16,3 +16,7 @@ Hey Evan! Heres my Take Home Assessment. I used the tailwind ui library for maki
 10. add form
 
 ## Time Take: ~2 Hours
+
+## To Run:
+1. pnpm install
+2. pnpm dev
