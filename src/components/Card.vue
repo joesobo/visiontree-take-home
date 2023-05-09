@@ -4,7 +4,7 @@
 	<div class="my-2 overflow-hidden bg-gray-100 shadow sm:rounded-lg">
 		<div class="px-4 py-6 sm:px-6">
 			<div class="flex justify-between">
-				<h3 class="text-base font-semibold leading-7 text-gray-900">Form Information</h3>
+				<h3 class="text-base font-semibold leading-7 text-gray-900">{{ form.form_name }}</h3>
 				<button @click="removeForm" class="cursor-pointer">
 					<XMarkIcon class="h-6 w-6 text-gray-900" aria-hidden="true" />
 				</button>
@@ -18,10 +18,6 @@
 				<div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
 					<dt class="text-sm font-medium text-gray-900">ID</dt>
 					<dd class="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">{{ form.id.$oid }}</dd>
-				</div>
-				<div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
-					<dt class="text-sm font-medium text-gray-900">Name</dt>
-					<dd class="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">{{ form.form_name }}</dd>
 				</div>
 				<div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
 					<dt class="text-sm font-medium text-gray-900">Last Updated</dt>
