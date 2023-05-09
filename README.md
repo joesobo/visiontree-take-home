@@ -1,6 +1,6 @@
 # visiontree-take-home
 
-Hey Evan! Heres my Take Home Assessment. I used the tailwind ui library to make it look pretty to not spend to much time on design. Hope you enjoy!
+Hey Evan! Heres my Take Home Assessment. I used the tailwind ui library for making it look pretty, as to not spend to much time on design. Hope you enjoy!
 
 ## Steps
 
@@ -15,4 +15,4 @@ Hey Evan! Heres my Take Home Assessment. I used the tailwind ui library to make 
 9. clean up home
 10. add form
 
-Time Take: ~2 Hours
+## Time Take: ~2 Hours
