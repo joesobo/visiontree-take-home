@@ -83,7 +83,7 @@
         </div>
       </div>
 
-      <main class="py-10">
+      <main class="pb-10 pt-2">
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <slot />
         </div>

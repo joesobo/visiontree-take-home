@@ -10,3 +10,7 @@
 6. setup data fetching in forms page
 7. displaying with ui card, added event emitter for removing forms
 8. search bar
+9. clean up home
+10. add form
+
+Time Take: ~2 Hours
