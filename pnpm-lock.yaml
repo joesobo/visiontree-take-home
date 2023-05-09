@@ -7,6 +7,7 @@ specifiers:
   '@tailwindcss/forms': ^0.5.3
   '@tsconfig/node18': ^2.0.0
   '@types/node': ^18.16.3
+  '@types/uuid': ^9.0.1
   '@vitejs/plugin-vue': ^4.2.1
   '@vue/eslint-config-prettier': ^7.1.0
   '@vue/eslint-config-typescript': ^11.0.3
@@ -39,6 +40,7 @@ devDependencies:
   '@tailwindcss/forms': 0.5.3_tailwindcss@3.3.2
   '@tsconfig/node18': 2.0.0
   '@types/node': 18.16.6
+  '@types/uuid': 9.0.1
   '@vitejs/plugin-vue': 4.2.1_vite@4.3.5+vue@3.2.47
   '@vue/eslint-config-prettier': 7.1.0_aq37wtubambsjkbuajxtwljxa4
   '@vue/eslint-config-typescript': 11.0.3_bpsvh4wngwxirjqntlxkeawmpq
@@ -428,6 +430,10 @@ packages:
 
   /@types/semver/7.5.0:
     resolution: {integrity: sha512-G8hZ6XJiHnuhQKR7ZmysCeJWE08o8T0AXtk5darsCaTVsYZhhgUrq53jizaR2FvsoeCwJhlmwTjkXBY5Pn/ZHw==}
+    dev: true
+
+  /@types/uuid/9.0.1:
+    resolution: {integrity: sha512-rFT3ak0/2trgvp4yYZo5iKFEPsET7vKydKF+VRCxlQ9bpheehyAJH89dAkaLEq/j/RZXJIqcgsmPJKUP1Z28HA==}
     dev: true
 
   /@typescript-eslint/eslint-plugin/5.59.5_zaj6dsh3leplki3sfxgbx2w2za:
